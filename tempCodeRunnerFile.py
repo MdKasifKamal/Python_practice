@@ -1,3 +1,1 @@
-  # Right stars
-    for j in range(i):
-        print("*", end="")
+or j == 0 or j == 4:
